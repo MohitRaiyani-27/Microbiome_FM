@@ -3,7 +3,7 @@ Fine-tune Pre-trained Encoder for Disease Classification
 =========================================================
 
 Loads the pre-trained encoder from masked chunk autoencoding
-and fine-tunes it for 131-class disease classification.
+and fine-tunes it for 40-class disease classification.
 
 Uses attention pooling to compress 64 encoder tokens → 1 vector.
 
